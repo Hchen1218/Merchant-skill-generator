@@ -1,12 +1,20 @@
 # merchant-skill-generator
 
-> 如果互联网产品可以公开自己的 CLI 和接口，  
-> 那线下门店，为什么不能拥有自己的 AI Skill？
+> 把线下门店蒸馏成 AI Skill。
 
 ![License](https://img.shields.io/badge/license-MIT-green) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue) ![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-black) ![MCP](https://img.shields.io/badge/output-MCP%20Skill-purple)
 
-在 AI 到来之后，线下门店不应该只存在于地图、点评、团购、小程序和公众号里。  
-它也应该有一个能被 AI 理解、调用、转述和推荐的接口层。`merchant-skill-generator` 做的就是这件事。
+你的店开了很多年，顾客还是只能在地图、点评、团购、公众号和小红书里一点点拼出你是谁？
+你的菜单、活动、营业时间、排队方式，散落在不同平台，AI 问起来却只能得到一段模糊介绍？
+你的店明明有自己的风格、自己的规则、自己的招牌，但在 AI 眼里还只是“附近的一家店”？
+
+让线下门店也拥有自己的 Skill，欢迎来到 AI 原生门店。
+
+提供商家的原材料（门店介绍、营业时间、地址、菜单、服务规则、活动信息）加上你的主观描述  
+生成一个真正像这家店的 AI Skill  
+让 AI 知道它卖什么、几点开门、怎么排队、什么能说、什么不能乱说
+
+`merchant-skill-generator` 做的就是这件事。
 
 它不是 SaaS，不是托管平台，也不是在线后台。它是一个 **Skill 生成器**：
 
@@ -22,12 +30,13 @@
 
 ## 这是什么
 
-近期中文互联网里，一类新的 Skill 项目开始出圈：  
-它们不是传统 App，也不是简单 prompt，而是把某个对象整理成一个可安装、可调用、可解释的 Skill。
+这是一个用来生成商家 Skill 的 Skill。
 
-放在线下商家语境里，这意味着：顾客不只是“搜到你”，AI 也能“接触你”，并通过工具调用回答你的高频问题。
+它会把一家线下门店整理成一个完整的商家 Skill 项目，里面包括说明文档、配置文件、后端代码和发布时需要用到的内容。
 
-> 生成像“公开成品 Skill”那样的商家 Skill 仓库。
+你可以把它理解成：
+
+> 让一家线下店，第一次以“AI 可以理解和调用的对象”出现。
 
 * * *
 
