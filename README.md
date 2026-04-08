@@ -1,4 +1,4 @@
-# merchant-skill-generator
+# 门店.skill
 
 > 把线下门店蒸馏成 AI Skill。
 
@@ -14,7 +14,7 @@
 生成一个真正像这家店的 AI Skill  
 让 AI 知道它卖什么、几点开门、怎么排队、什么能说、什么不能乱说
 
-`merchant-skill-generator` 做的就是这件事。
+`门店.skill`（仓库名：`merchant-skill-generator`）做的就是这件事。
 
 它不是 SaaS，不是托管平台，也不是在线后台。它是一个 **Skill 生成器**：
 
