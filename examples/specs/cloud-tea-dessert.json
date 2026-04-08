@@ -1,0 +1,47 @@
+{
+  "merchant_slug": "cloud-tea-dessert",
+  "merchant_name": "Cloud Tea & Dessert",
+  "template_id": "tea_dessert",
+  "intro": "主打轻盈奶茶和现做甜品的年轻化门店。",
+  "hours": "11:00-22:30",
+  "locations": [
+    { "name": "主店", "address": "成都市锦江区太古里东里2楼" }
+  ],
+  "contact_channels": [
+    { "name": "小程序", "label": "点单与预订", "value": "Cloud Tea 小程序" },
+    { "name": "外卖平台", "label": "配送下单", "value": "搜索 Cloud Tea & Dessert" }
+  ],
+  "catalog_items": [
+    { "name": "云顶茉莉拿铁", "summary": "轻奶感搭配茉莉茶底。", "tags": ["招牌"] },
+    { "name": "焦糖布丁杯", "summary": "门店人气甜品，适合搭配饮品。", "tags": ["甜品"] }
+  ],
+  "visit_info": {
+    "summary": "支持到店点单和小程序预订，蛋糕类建议提前预定。",
+    "bullets": [
+      "饮品可调甜度和冰量。",
+      "蛋糕和整盒甜品建议提前一天联系。"
+    ]
+  },
+  "service_info": {
+    "summary": "支持堂食、外带、外卖和甜品预订。",
+    "bullets": [
+      "外卖配送范围以平台实时显示为准。",
+      "新品和联名活动会优先在社媒更新。"
+    ]
+  },
+  "policy_info": {
+    "summary": "联名和限定款以当天门店供应为准。",
+    "bullets": [
+      "部分限定甜品可能提前售罄。",
+      "具体配送时效请以平台页面为准。"
+    ]
+  },
+  "latest_updates": [
+    {
+      "title": "春季限定上新",
+      "details": "本周上线两款春季限定茶饮和一款草莓甜品。",
+      "date": "2026-04-09"
+    }
+  ],
+  "brand_keywords": ["上新", "甜度", "甜品预订", "联名"]
+}

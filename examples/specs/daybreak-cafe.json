@@ -1,0 +1,47 @@
+{
+  "merchant_slug": "daybreak-cafe",
+  "merchant_name": "Daybreak Coffee",
+  "template_id": "cafe",
+  "intro": "社区型精品咖啡馆，白天适合办公，晚上适合轻松聊天。",
+  "hours": "08:30-21:30",
+  "locations": [
+    { "name": "主店", "address": "上海市静安区愚园路188号" }
+  ],
+  "contact_channels": [
+    { "name": "小红书", "label": "新品与活动", "value": "@Daybreak Coffee" },
+    { "name": "微信", "label": "拼豆与包场咨询", "value": "daybreak-coffee" }
+  ],
+  "catalog_items": [
+    { "name": "日出拿铁", "summary": "奶感柔和，适合第一次来点。", "tags": ["招牌"] },
+    { "name": "手冲单品豆", "summary": "每周轮换豆单，风味线索会写在吧台黑板上。", "tags": ["手冲", "豆单"] }
+  ],
+  "visit_info": {
+    "summary": "工作日白天适合带电脑来坐，店里提供 Wi-Fi 和插座。",
+    "bullets": [
+      "靠窗区域插座较多。",
+      "周末下午容易满座，建议错峰。"
+    ]
+  },
+  "service_info": {
+    "summary": "支持堂食、外带和咖啡豆零售。",
+    "bullets": [
+      "咖啡豆可按 100g 或 250g 带走。",
+      "活动信息以店内公告和小红书为准。"
+    ]
+  },
+  "policy_info": {
+    "summary": "希望大家轻声交流，长时间办公请照顾高峰时段座位使用。",
+    "bullets": [
+      "宠物友好，但请自行看护。",
+      "豆子库存和限量甜品可能当天售罄。"
+    ]
+  },
+  "latest_updates": [
+    {
+      "title": "周末手冲分享会",
+      "details": "本周六下午 3 点店内有手冲分享会。",
+      "date": "2026-04-10"
+    }
+  ],
+  "brand_keywords": ["手冲", "社区感", "插座", "工作友好"]
+}

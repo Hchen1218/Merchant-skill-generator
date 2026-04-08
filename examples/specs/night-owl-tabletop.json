@@ -1,0 +1,48 @@
+{
+  "merchant_slug": "night-owl-tabletop",
+  "merchant_name": "Night Owl Tabletop",
+  "template_id": "tabletop_experience",
+  "intro": "集合桌游、剧本杀和轻量密室体验的年轻社交空间。",
+  "hours": "13:00-01:00",
+  "locations": [
+    { "name": "主店", "address": "深圳市南山区海岸城文创园3层" }
+  ],
+  "contact_channels": [
+    { "name": "微信", "label": "预约与拼场", "value": "nightowl-tabletop" },
+    { "name": "大众点评", "label": "门店信息", "value": "搜索 Night Owl Tabletop" }
+  ],
+  "catalog_items": [
+    { "name": "新手桌游组局", "summary": "适合 2-6 人，店员会带规则。", "tags": ["新手推荐", "桌游"] },
+    { "name": "轻推理剧本", "summary": "更适合第一次玩剧本杀的朋友。", "tags": ["剧本杀"] },
+    { "name": "双人密室体验", "summary": "偏轻量、时长短，适合情侣或朋友结伴。", "tags": ["密室"] }
+  ],
+  "visit_info": {
+    "summary": "大部分项目需要提前预约，临时 walk-in 视房态和店内档期而定。",
+    "bullets": [
+      "建议先确认人数和时长，再让店员推荐主题。",
+      "热门时段可能需要提前一天预约。"
+    ]
+  },
+  "service_info": {
+    "summary": "支持拼场、包场、店员带新手和主题推荐。",
+    "bullets": [
+      "迟到和改约规则请提前确认。",
+      "部分剧本和密室有年龄或体验门槛。"
+    ]
+  },
+  "policy_info": {
+    "summary": "为避免剧透与安全问题，具体规则请以店内说明为准。",
+    "bullets": [
+      "密室类项目不适合剧透式介绍。",
+      "当天空场和房态需要实时确认。"
+    ]
+  },
+  "latest_updates": [
+    {
+      "title": "新主题上架",
+      "details": "本周新增一套双人轻推理和一间轻量密室。",
+      "date": "2026-04-09"
+    }
+  ],
+  "brand_keywords": ["预约", "新手推荐", "人数", "时长"]
+}

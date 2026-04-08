@@ -1,0 +1,47 @@
+{
+  "merchant_slug": "bloom-florist",
+  "merchant_name": "Bloom Atelier",
+  "template_id": "florist",
+  "intro": "主打法式自然系花束和日常送礼花艺。",
+  "hours": "09:30-20:00",
+  "locations": [
+    { "name": "工作室", "address": "杭州市拱墅区大兜路118号" }
+  ],
+  "contact_channels": [
+    { "name": "微信", "label": "定制咨询", "value": "bloom-atelier" },
+    { "name": "电话", "label": "配送协调", "value": "0571-66667777" }
+  ],
+  "catalog_items": [
+    { "name": "自然系花束", "summary": "偏轻盈、适合生日和见面礼。", "tags": ["日常送礼"] },
+    { "name": "节日限定花礼", "summary": "节日前会上新节日限定方案。", "tags": ["节日"] }
+  ],
+  "visit_info": {
+    "summary": "支持到店自提和提前预订，节日前建议提早联系。",
+    "bullets": [
+      "节日前 2-3 天沟通会更稳。",
+      "预算和送礼对象越具体，推荐越准确。"
+    ]
+  },
+  "service_info": {
+    "summary": "支持同城配送、定制花束和企业订花。",
+    "bullets": [
+      "同城配送时段需按当天排单确认。",
+      "收到花束后会附上养护卡。"
+    ]
+  },
+  "policy_info": {
+    "summary": "花材以当天到货和档期安排为准。",
+    "bullets": [
+      "特殊花材需要提前预订。",
+      "节日高峰配送时段可能提前约满。"
+    ]
+  },
+  "latest_updates": [
+    {
+      "title": "母亲节花礼预售",
+      "details": "母亲节限定花礼已开放预订。",
+      "date": "2026-04-12"
+    }
+  ],
+  "brand_keywords": ["花束", "同城配送", "节日预订"]
+}

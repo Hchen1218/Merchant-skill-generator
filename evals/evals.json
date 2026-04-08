@@ -1,0 +1,23 @@
+{
+  "skill_name": "merchant-skill-generator",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我做一个像金谷园那样的餐厅 Skill。店名叫金谷园饺子馆，北邮和五道口各有一家店，想要 GitHub-ready 的仓库和 CloudBase 部署脚本。",
+      "expected_output": "生成一个 restaurant 模板仓库，包含 README、SKILL.md、skill.json、MCP 后端和部署脚本，并且工具名接近成品 Skill 的业务表达，例如 get_restaurant_info、get_queue_info、get_delivery_info。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我想给一家社区咖啡馆做同款 Skill，要能回答招牌咖啡、插座 Wi-Fi、外带和活动信息。",
+      "expected_output": "生成一个 cafe 模板仓库，README 和 SKILL.md 的话术偏咖啡馆场景，工具名应体现咖啡店语义，例如 get_cafe_info、get_menu_info、get_workspace_info。",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "帮一家 Live House 生成 Skill，要覆盖排期、购票、入场和现场须知，最后给我可复制给 AI 的安装话术。",
+      "expected_output": "生成一个 livehouse 模板仓库，并附安装指令与发布文案，工具名应体现演出空间语义，例如 get_schedule_info、get_ticket_info、get_entry_rules。",
+      "files": []
+    }
+  ]
+}

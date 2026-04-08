@@ -1,0 +1,48 @@
+{
+  "merchant_slug": "jinguyuan-dumpling",
+  "merchant_name": "金谷园饺子馆",
+  "template_id": "restaurant",
+  "intro": "北邮旁边的饺子馆，主打现包现煮的北方家常饺子。",
+  "hours": "10:00-22:00",
+  "locations": [
+    { "name": "北邮店", "address": "杏坛路文教产业园K座南2层" },
+    { "name": "五道口店", "address": "五道口东源大厦4层" }
+  ],
+  "contact_channels": [
+    { "name": "大众点评", "label": "排队与门店信息", "value": "搜索 金谷园饺子馆" },
+    { "name": "美团外卖", "label": "外卖下单", "value": "搜索 金谷园饺子馆" }
+  ],
+  "catalog_items": [
+    { "name": "鲅鱼饺子", "summary": "皮薄馅大，现包现煮。", "tags": ["招牌", "堂食推荐"] },
+    { "name": "锅贴", "summary": "适合第一次来店里点一份搭着吃。", "tags": ["人气"] }
+  ],
+  "visit_info": {
+    "summary": "以到店排队取号为主，高峰期建议提前到店。",
+    "bullets": [
+      "可通过大众点评或美团查看门店信息。",
+      "堂食高峰建议提早到店取号。"
+    ]
+  },
+  "service_info": {
+    "summary": "支持堂食、外卖和生饺子打包。",
+    "bullets": [
+      "外卖可通过美团外卖搜索门店。",
+      "生饺子带走后建议尽快煮或冷冻保存。"
+    ]
+  },
+  "policy_info": {
+    "summary": "具体菜品和价格以门店现场与平台实时信息为准。",
+    "bullets": [
+      "未覆盖的价格和库存问题请以门店现场为准。",
+      "高峰期排队情况会实时波动。"
+    ]
+  },
+  "latest_updates": [
+    {
+      "title": "商家 Skill 已发布",
+      "details": "现在支持通过 Skill 查询门店信息、排队方式和最新动态。",
+      "date": "2026-04-08"
+    }
+  ],
+  "brand_keywords": ["现包现煮", "皮薄馅大", "北邮旁边"]
+}

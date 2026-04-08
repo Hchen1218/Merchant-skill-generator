@@ -1,0 +1,15 @@
+{
+  "name": "merchant-skill-generator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "If internet products can ship CLIs, offline stores can ship AI-facing Skills too. Generate GitHub-ready merchant MCP repos.",
+  "scripts": {
+    "generate": "tsx scripts/generate.ts",
+    "validate": "tsx scripts/validate.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.8.3"
+  }
+}

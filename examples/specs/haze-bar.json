@@ -1,0 +1,47 @@
+{
+  "merchant_slug": "haze-bar",
+  "merchant_name": "Haze Bar",
+  "template_id": "bar",
+  "intro": "一间偏鸡尾酒和电子乐氛围的夜间酒吧。",
+  "hours": "18:00-02:00",
+  "locations": [
+    { "name": "主店", "address": "北京市朝阳区工体西路52号" }
+  ],
+  "contact_channels": [
+    { "name": "电话", "label": "订位咨询", "value": "010-88886666" },
+    { "name": "Instagram", "label": "演出与酒单预告", "value": "@hazebar" }
+  ],
+  "catalog_items": [
+    { "name": "Neon Highball", "summary": "偏清爽的招牌高球。", "tags": ["signature cocktail"] },
+    { "name": "Midnight Sour", "summary": "酸甜平衡，适合第一次来尝试。", "tags": ["人气"] }
+  ],
+  "visit_info": {
+    "summary": "周五周六建议提前订位，入场高峰在晚上 9 点后。",
+    "bullets": [
+      "Walk-in 需要视当天座位情况而定。",
+      "DJ set 通常在 22:30 后开始。"
+    ]
+  },
+  "service_info": {
+    "summary": "支持订位、包场咨询和当晚酒单推荐。",
+    "bullets": [
+      "包场需要提前联系门店。",
+      "调酒师会根据口味偏好给到推荐。"
+    ]
+  },
+  "policy_info": {
+    "summary": "请以现场座位和当晚活动安排为准。",
+    "bullets": [
+      "低消和特别活动场次以门店公告为准。",
+      "未成年人不可入场。"
+    ]
+  },
+  "latest_updates": [
+    {
+      "title": "周五电子乐主题夜",
+      "details": "本周五将有客座 DJ 带来电子乐主题夜。",
+      "date": "2026-04-11"
+    }
+  ],
+  "brand_keywords": ["signature cocktail", "夜场", "DJ set"]
+}

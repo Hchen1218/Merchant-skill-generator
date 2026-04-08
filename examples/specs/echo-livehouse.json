@@ -1,0 +1,47 @@
+{
+  "merchant_slug": "echo-livehouse",
+  "merchant_name": "Echo Livehouse",
+  "template_id": "livehouse",
+  "intro": "独立乐队和新声音乐人的小型现场空间。",
+  "hours": "演出日 18:30-23:30",
+  "locations": [
+    { "name": "场地", "address": "广州市海珠区新港中路77号" }
+  ],
+  "contact_channels": [
+    { "name": "票务平台", "label": "购票入口", "value": "秀动 / 正版票务平台" },
+    { "name": "微博", "label": "排期公告", "value": "@Echo Livehouse" }
+  ],
+  "catalog_items": [
+    { "name": "本周排期", "summary": "每周三和周末会有乐队或 DJ 现场。", "tags": ["演出"] },
+    { "name": "现场周边", "summary": "部分专场会有限定周边。", "tags": ["周边"] }
+  ],
+  "visit_info": {
+    "summary": "需提前在票务平台购票，演出日通常会提前开放入场。",
+    "bullets": [
+      "建议至少提前 30 分钟到场。",
+      "热门专场可能需要排队安检。"
+    ]
+  },
+  "service_info": {
+    "summary": "现场有基础酒水与周边售卖，具体以当晚安排为准。",
+    "bullets": [
+      "寄存与周边以活动公告说明为准。",
+      "场地通常为站席演出。"
+    ]
+  },
+  "policy_info": {
+    "summary": "票务、入场和违禁物品请以当晚公告为准。",
+    "bullets": [
+      "演出排期有调整时会优先在官方社媒公告。",
+      "禁带物品以场地方实时通知为准。"
+    ]
+  },
+  "latest_updates": [
+    {
+      "title": "周末双专场公布",
+      "details": "本周末将有两场双专场演出开放售票。",
+      "date": "2026-04-10"
+    }
+  ],
+  "brand_keywords": ["演出排期", "票务", "入场须知"]
+}
